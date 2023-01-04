@@ -1,4 +1,4 @@
-# ESP-Vihag
+# ESP-Virag
 
 parts list (/flower pot): <br/>
 1* IRFZ44n N-Channel Fet; <br/>
