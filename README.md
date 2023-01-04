@@ -2,7 +2,7 @@
 
 parts list (/flower pot): <br/>
 1* IRFZ44n N-Channel Fet; <br/>
-2* BC547b NPN transistors (or similar, pinouts may differ!) <br/>
+2* NPN transistors (I used BC547B) <br/>
 3* 1KΩ resistors <br/>
 1* 1n4007 diode (or similar, MUST BE Shottky) <br/>
 1* 3 pin male jumper with 2 pin jumper cap <br/>
