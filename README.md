@@ -25,7 +25,7 @@ MQTT_PASSWORD not required, optional<br />
 MQTT_UPDATE default: 420 (4 minutes), time (seconds) between mqtt publishes<br />
 MEASURE_INTERVAL default: 420 (4 minutes), time (seconds) between getting a sample<br />
 MEASURE_SAMPLE_AM default: 10<br />
-PUMP_PIN default: 36 (pin 2)<br />
+PUMP_PIN default: 2 (pin 2)<br />
 SOIL_PIN default: 39 (pin 3)<br />
 TANK_PIN default: 34 (pin 4)<br />
 OVERFLOW_PIN default: 35 (pin 5)<br />
