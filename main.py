@@ -15,8 +15,8 @@ class script:
         self.MQTT_GTOPIC = "espdev_8gp0db"
         self.MQTT_STOPIC = "espdev_8sp0db"
         self.MQTT_UPDATE = 3600
-        self.NETWORK_SSID = "Telekom-aed607"
-        self.NETWORK_PASSWORD = "sLMYm2jiejED"
+        self.NETWORK_SSID = "
+        self.NETWORK_PASSWORD = ""
         #OTHER CONFIG
         self.PUMP_PIN = 2
         self.SOIL_PIN = 39 #VP
